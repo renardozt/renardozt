@@ -30,7 +30,7 @@ Here are some projects I'm proud of (check out my repos for more 👇):
 ## 🌍 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/ibrahim-%C3%B6ztepe-8aa858353/)  
 - 🐦 [X (formerly Twitter)](https://x.com/renardozt)  
-- 📧 **oztepe.ibrahim@gmail.com**  
+- 📧 **renard.ozt@gmail.com**  
 
 ---
 
