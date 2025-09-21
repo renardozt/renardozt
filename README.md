@@ -16,7 +16,7 @@ Coding is not just my job — it's my favorite way of solving puzzles and bringi
 ## 📌 Featured Projects
 Here are some projects I'm proud of (check out my repos for more 👇):  
 
-- ⚡ **[Project Name 3](https://github.com/renardozt/SpoofDPI-Turkiye)** – SpoofDPI project's Turkiye fork.
+- ⚡ **[SpoofDPI-Turkiye](https://github.com/renardozt/SpoofDPI-Turkiye)** – SpoofDPI project's Turkiye fork.
 
 ---
 
